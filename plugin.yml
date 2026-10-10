@@ -1,0 +1,18 @@
+name: OpFun
+version: 1.0.0
+main: opfun.OpFun
+api-version: '26.3'
+description: Spass-Befehle fuer OPs
+commands:
+  ooooooooo:
+    description: Aimbot togglen
+    usage: /ooooooooo
+    permission: opfun.op
+  loool:
+    description: Diamant-Ruestung bekommen
+    usage: /loool
+    permission: opfun.op
+permissions:
+  opfun.op:
+    description: Zugang zu Op-Fun-Befehlen
+    default: op
